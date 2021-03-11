@@ -1,4 +1,5 @@
 package cs112lectures;
+//Add comments to the partner’s Pokemon.java
 
 public class Pokemon {
   // Can only be accessed by the inherited class
